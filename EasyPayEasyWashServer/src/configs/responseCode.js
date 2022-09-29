@@ -1,0 +1,17 @@
+module.exports = {
+    SUCCESS: 200,
+    SUCCESS_NO_CONTENT: 204,
+  
+  
+    ERROR_BAD_REQUEST: 400,
+    ERROR_UNAUTHORIZED: 401,
+    ERROR_NOT_FOUND: 404,
+  
+    ERROR_API: 500,
+  
+    ERROR_DB_UNKNOWN: 1000,
+    ERROR_DB_DUPLICATE: 1001,
+    ERROR_DB_DOWN: 1100,
+  
+  }
+  
